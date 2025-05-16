@@ -75,7 +75,7 @@ Using real emergency department data from Beth Israel Deaconess Medical Center's
 - **Gender Distribution**: 54% Male, 46% Female
 - **Average Age**: 64 years – suggesting elderly patients are the most frequent visitors
 
-![image.png](attachment:4a01a2d5-1eaf-4d55-a15e-c94a263045be:image.png)
+![image.png](images/population_charateristics.png)
 
 ---
 
@@ -86,7 +86,7 @@ Using real emergency department data from Beth Israel Deaconess Medical Center's
 - **Afternoon Shift (12 PM – 4 PM)** is the busiest with the highest patient volume.
 - ALOS is also longer during this time—suggesting a strain on resources.
 
-![Group 1.png](attachment:cdeca7d1-b25c-47c6-a63c-32d148362b6c:Group_1.png)
+![Group 1.png](images/ED_Busiest.png)
 
 ### 2. **What are the overall LOS metrics?**
 
@@ -94,28 +94,33 @@ Using real emergency department data from Beth Israel Deaconess Medical Center's
 - **Median LOS**: 5 hours
 - **Outliers** significantly affect ALOS.
 
-![image.png](attachment:60ac0a00-8dca-4c1e-bd93-faebe47e3517:image.png)
+![image.png](images/Overall_LOS_Metrics.png)
 
 ### 3. **Does LOS vary by time?**
 
-![Q1 & Q3 show higher ALOS, possibly due to seasonal illnesses.](attachment:a06d960c-338e-4391-a4ec-3a64cb92f496:image.png)
-
 Q1 & Q3 show higher ALOS, possibly due to seasonal illnesses.
 
-![ September has the highest ALOS (6.08 hours).](attachment:f2ebd686-a86f-457c-b5f2-975ae25222e9:image.png)
+![Q1 & Q3 show higher ALOS, possibly due to seasonal illnesses.](images/Q1_Q3_ALOS.png)
+
+
 
  September has the highest ALOS (6.08 hours).
 
-![Wednesday has the longest average LOS.](attachment:76799b9d-d33e-458e-9aa7-b8cd8b60cc06:image.png)
+![ September has the highest ALOS (6.08 hours).](images/September_ALOS.png)
+
+
 
 Wednesday has the longest average LOS.
+![Wednesday has the longest average LOS.](images/Wednesday_ALOS.png)
+
+
 
 ### 4. Impact of the number of Procedures on LOS
 
 - It seems that as the number of procedures increase, patient length of stay decreases.
 - This finding is surprising because one would think that more procedures would increase a patients stay. However, it could be the case that effective procedures help to pinpoint issues faster and lead to more efficient treatment, minimizing patient stay.
 
-![Screenshot 2025-04-16 at 10.16.43 AM.png](attachment:46a52afd-e332-42ee-8ddb-8909916a7bbf:Screenshot_2025-04-16_at_10.16.43_AM.png)
+![Screenshot 2025-04-16 at 10.16.43 AM.png](images/Procedures_LOS.png)
 
 ### 👥 Demographic Insights
 
@@ -124,29 +129,30 @@ Wednesday has the longest average LOS.
 - **Women** had a higher ALOS (6.01 hours) compared to **men** (5.64 hours).
 - Median LOS remained constant—pointing to greater outlier influences among female patients.
 
-![ALOS for Women](attachment:38c5135c-e64a-4f03-84ed-804ed406599f:image.png)
-
 ALOS for Women
+![ALOS for Women](images/ALOS_Women.png)
 
-![ALOS for men](attachment:cc51baba-374a-4e80-ae66-b4517f37fe73:image.png)
 
 ALOS for men
+![ALOS for men](images/ALOS_Men.png)
+
+
 
 ### 2.  Racial/Ethnic Differences in LOS
 
 - **Black/African American** patients had the **highest ALOS (6.31 hours)** and **median LOS (6 hours)**.
 - These findings suggest that members of this group may suffer from more complex diagnosis, socio-economic difficulties, severe diagnosis, and other issues. However, additional research is needed to understand more specific issues.
 
-![Screenshot 2025-04-16 at 10.22.40 AM.png](attachment:94efd06f-8b96-4859-b07e-345b416f43d7:Screenshot_2025-04-16_at_10.22.40_AM.png)
+![Screenshot 2025-04-16 at 10.22.40 AM.png](images/ALOS_Race.png)
 
-![Screenshot 2025-04-16 at 10.22.10 AM.png](attachment:f3320333-3c4f-4a97-a3cb-bb297e48e449:Screenshot_2025-04-16_at_10.22.10_AM.png)
+![Screenshot 2025-04-16 at 10.22.10 AM.png](images/ALOS_Race_Table.png)
 
 ### 3. **Age-Related Trends**
 
 - Specific age groups, especially **middle-aged women**, had above-average LOS.
 - Older patients also trended toward longer stays, likely due to more complex medical needs.
 
-![image.png](attachment:7640861c-ce45-429f-a6b6-3542c5b015d6:image.png)
+![image.png](images/Age_ALOS.png)
 
 ---
 
