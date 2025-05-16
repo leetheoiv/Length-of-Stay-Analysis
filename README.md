@@ -1,10 +1,5 @@
 # Emergency Department Length of Stay Analysis
 
-## 📚 Table of Contents
-
-
-
----
 
 ## **Project Summary**
 
