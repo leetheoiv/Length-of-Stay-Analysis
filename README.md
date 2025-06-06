@@ -42,7 +42,7 @@ Using real emergency department data from Beth Israel Deaconess Medical Center's
         - [diagnosis_icd](https://mimic.mit.edu/docs/iii/tables/diagnoses_icd/)
         - [procedures_icd](https://mimic.mit.edu/docs/iii/tables/procedures_icd/)
 - **Accessed through**: Google Cloud BigQuery
-- The dataset includes over **31,000 ED visits** with patient demographic, procedural, and timestamp data spanning a 10-year period.
+- The dataset includes over **50,000+ ED visits** with patient demographic, procedural, and timestamp data spanning a 10-year period.
 
 ---
 
